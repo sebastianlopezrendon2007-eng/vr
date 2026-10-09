@@ -1,0 +1,13 @@
+{
+  "name": "Telemedicina.Client",
+  "rootNamespace": "Telemedicina",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.ugui",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.ARFoundation",
+    "Unity.XR.ARSubsystems",
+    "Unity.WebRTC"
+  ],
+  "autoReferenced": true
+}

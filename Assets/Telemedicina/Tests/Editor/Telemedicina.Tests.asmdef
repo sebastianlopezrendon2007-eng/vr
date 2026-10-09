@@ -1,0 +1,14 @@
+{
+  "name": "Telemedicina.Tests",
+  "references": [
+    "Telemedicina.Client",
+    "Telemedicina.Quest.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}

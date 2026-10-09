@@ -1,0 +1,17 @@
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/GAToUnityCallbacks.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroEnd.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroHeaderBegin.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/MacroSourceBegin.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAApplication.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAConfiguration.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGADebug.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAEvents.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAInput.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboard.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGASoftKeyboardCallbacks.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGATypes.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UGAVersion.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGACallbacks.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAConfigurationCallbacks.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAKeyEventCallbacks.h
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/UnityToGAMotionEventCallbacks.h

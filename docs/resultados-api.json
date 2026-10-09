@@ -1,0 +1,14 @@
+{
+  "flujo": {
+    "resultado": "PASS",
+    "comprobaciones": 82,
+    "consulta_id": 1
+  },
+  "persistencia": {
+    "resultado": "PASS",
+    "comprobaciones": 24,
+    "consulta_id": 1
+  },
+  "postgresql_reiniciado": true,
+  "api_reiniciada": true
+}

@@ -1,0 +1,2 @@
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/CMakeLists.txt
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/cpp/GameActivity/CMakeLists.txt

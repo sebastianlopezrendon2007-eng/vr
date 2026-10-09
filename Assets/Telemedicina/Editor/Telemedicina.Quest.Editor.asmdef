@@ -1,0 +1,6 @@
+{
+  "name": "Telemedicina.Quest.Editor",
+  "references": ["Telemedicina.Client", "Unity.XR.Management", "Unity.XR.Management.Editor", "Unity.XR.OpenXR", "Unity.XR.OpenXR.Editor", "Unity.XR.ARFoundation", "Unity.RenderPipelines.Universal.Runtime"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

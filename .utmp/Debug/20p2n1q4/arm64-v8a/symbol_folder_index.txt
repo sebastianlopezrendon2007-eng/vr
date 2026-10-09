@@ -1,0 +1,1 @@
+/home/miniye/Escritorio/Consultorio_Quest3_V3/Unity_Quest3/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/20p2n1q4/obj/arm64-v8a
